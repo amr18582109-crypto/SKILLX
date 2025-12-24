@@ -14,7 +14,7 @@ const Hero = () => {
               Connect. Learn. Grow.
             </h1>
             <p className="text-xl text-gray-600">
-              SkillBridge connects ambitious students with innovative companies while helping you develop the skills you need to succeed. Take our personalized assessment, follow your custom learning roadmap, and land your dream job.
+              SkillX connects ambitious students with innovative companies while helping you develop the skills you need to succeed. Take our personalized assessment, follow your custom learning roadmap, and land your dream job.
             </p>
             <Button
               onClick={() => navigate('/?login=true')}
