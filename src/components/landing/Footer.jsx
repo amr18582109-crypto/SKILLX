@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
-              SkillBridge
+              SkillX
             </h3>
             <p className="text-gray-400">
               Connecting students with companies through personalized learning and skill development.
